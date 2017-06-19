@@ -1,1 +1,1 @@
-web: python app/source/slack_jarvis.py
+web: python app/source/slack_jarvis.py $PORT
